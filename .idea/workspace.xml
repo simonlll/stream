@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92001cf6-21dd-4d54-91f6-e42ddde823f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/Documents/go" />
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectId" id="1kUUtshZ1XqRPfObVHbikgT5ebX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/videos" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build stream/streamserver">
+    <configuration name="Build 'stream' and run" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="stream" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="stream" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build stream/streamserver (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="stream" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/streamserver/main.go" />
+      <package value="stream/streamserver" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build stream/streamserver" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="stream" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="CGO_ENABLED" value="0 GOOS=linux GOARCH=amd64" />
+      </envs>
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/streamserver/main.go" />
+      <package value="stream/streamserver" />
+      <directory value="$PROJECT_DIR$/streamserver" />
+      <output_directory value="$PROJECT_DIR$/../../bin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="stream" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/streamserver/main.go" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.Build 'stream' and run" />
+      <item itemvalue="Go Build.go build stream/streamserver" />
+      <item itemvalue="Go Build.go build stream/streamserver (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build stream/streamserver" />
+        <item itemvalue="Go Build.go build stream/streamserver (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1605771657029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605771657029</updated>
+      <workItem from="1605771658640" duration="474000" />
+      <workItem from="1605772232684" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="523000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="109" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605778085523">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="109" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1605778085523" />
+    <state x="109" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1605774808738" />
+    <state width="1228" height="208" key="GridCell.Tab.0.bottom" timestamp="1605778360797">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1228" height="208" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1605778360797" />
+    <state width="1228" height="208" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1605774811518" />
+    <state width="1228" height="62" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1605770694632" />
+    <state width="1228" height="208" key="GridCell.Tab.0.center" timestamp="1605778360797">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1228" height="208" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1605778360797" />
+    <state width="1228" height="208" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1605774811517" />
+    <state width="1228" height="62" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1605770694631" />
+    <state width="1228" height="208" key="GridCell.Tab.0.left" timestamp="1605778360796">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1228" height="208" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1605778360796" />
+    <state width="1228" height="208" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1605774811517" />
+    <state width="1228" height="62" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1605770694631" />
+    <state width="1228" height="208" key="GridCell.Tab.0.right" timestamp="1605778360797">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1228" height="208" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1605778360797" />
+    <state width="1228" height="208" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1605774811518" />
+    <state width="1228" height="62" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1605770694632" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>stream</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
